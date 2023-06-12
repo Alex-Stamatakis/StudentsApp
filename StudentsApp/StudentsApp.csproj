@@ -1,0 +1,67 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\StudentsApp.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\StudentsApp.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net6.0\StudentsApp.RazorAssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\StudentsWebApp.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\StudentsWebApp.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net6.0\StudentsWebApp.RazorAssemblyInfo.cs" />
+    <Compile Include="obj\Release\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Release\net6.0\StudentsWebApp.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\net6.0\StudentsWebApp.GlobalUsings.g.cs" />
+    <Compile Include="obj\Release\net6.0\StudentsWebApp.RazorAssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\StudentsApp.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\Debug\net6.0\StudentsApp.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\StudentsApp.assets.cache" />
+    <None Include="obj\Debug\net6.0\StudentsApp.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0\StudentsApp.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\StudentsApp.RazorAssemblyInfo.cache" />
+    <None Include="obj\Debug\net6.0\StudentsWebApp.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\StudentsWebApp.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0\StudentsWebApp.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\StudentsWebApp.RazorAssemblyInfo.cache" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\net6.0\StudentsWebApp.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net6.0\StudentsWebApp.csproj.AssemblyReference.cache" />
+    <None Include="obj\Release\net6.0\StudentsWebApp.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Release\net6.0\StudentsWebApp.RazorAssemblyInfo.cache" />
+    <None Include="obj\StudentsApp.csproj.nuget.g.props" />
+    <None Include="obj\StudentsApp.csproj.nuget.g.targets" />
+    <None Include="Pages\Error.cshtml" />
+    <None Include="Pages\Index.cshtml" />
+    <None Include="Pages\Privacy.cshtml" />
+    <None Include="Pages\Shared\_Layout.cshtml" />
+    <None Include="Pages\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="Pages\_ViewImports.cshtml" />
+    <None Include="Pages\_ViewStart.cshtml" />
+    <None Include="StudentsWebApp.csproj" />
+    <None Include="StudentsWebApp.csproj.user" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net6.0\" />
+    <Folder Include="bin\Release\net6.0\" />
+    <Folder Include="obj\Debug\net6.0\refint\" />
+    <Folder Include="obj\Debug\net6.0\ref\" />
+    <Folder Include="obj\Debug\net6.0\staticwebassets\" />
+    <Folder Include="obj\Release\net6.0\refint\" />
+    <Folder Include="obj\Release\net6.0\ref\" />
+    <Folder Include="obj\Release\net6.0\staticwebassets\" />
+  </ItemGroup>
+
+</Project>
